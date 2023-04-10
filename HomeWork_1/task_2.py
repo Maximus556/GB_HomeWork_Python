@@ -16,3 +16,6 @@ if not s % 6:
      print(f'Катя {x * 4} ')
      print(f'Сережа {x} ')
      print(f'Петя {x}')
+else :
+    print ('Решения нет')
+    
