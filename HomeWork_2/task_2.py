@@ -10,15 +10,14 @@
 
 x = int(input('Введите 1-ое задуманное число: '))
 y = int(input('Введите 2-ое задуманное число:т '))
-s = 0
 if (x, y <= 10000):
-    s = x + y
-    p = x * y
+    s == x + y
+    p == x * y
     print (s, p)
     for i in range(x):
-    for j in range(y):
-        if x == i + j and y == i * j:
-print(i, j)
+        for j in range(y):
+            if x == i + j and y == i * j:
+        print(i, j)
 else:
     print("загадайте другие числа ")
 
